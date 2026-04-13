@@ -4,9 +4,9 @@
 
 | Name                                                                           |    Stmts |     Miss |   Branch |   BrPart |   Cover |   Missing |
 |------------------------------------------------------------------------------- | -------: | -------: | -------: | -------: | ------: | --------: |
-| src/haystack\_integrations/components/converters/amazon\_textract/converter.py |       92 |        0 |       20 |        1 |     99% | 204-\>207 |
-| src/haystack\_integrations/components/converters/amazon\_textract/errors.py    |        2 |        0 |        0 |        0 |    100% |           |
-| **TOTAL**                                                                      |   **94** |    **0** |   **20** |    **1** | **99%** |           |
+| src/haystack\_integrations/components/converters/amazon\_textract/converter.py |       91 |        0 |       20 |        1 |     99% | 201-\>204 |
+| src/haystack\_integrations/components/converters/amazon\_textract/errors.py    |        1 |        0 |        0 |        0 |    100% |           |
+| **TOTAL**                                                                      |   **92** |    **0** |   **20** |    **1** | **99%** |           |
 
 
 ## Setup coverage badge
