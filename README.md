@@ -4,8 +4,9 @@
 
 | Name                                                                |    Stmts |     Miss |   Branch |   BrPart |   Cover |   Missing |
 |-------------------------------------------------------------------- | -------: | -------: | -------: | -------: | ------: | --------: |
-| src/haystack\_integrations/components/evaluators/ragas/evaluator.py |       98 |       15 |       30 |        9 |     80% |154, 172, 185-187, 190, 198-\>exit, 203-\>exit, 227-\>exit, 243-244, 246-248, 250-253 |
-| **TOTAL**                                                           |   **98** |   **15** |   **30** |    **9** | **80%** |           |
+| src/haystack\_integrations/components/evaluators/ragas/evaluator.py |      115 |       13 |       26 |        7 |     84% |275-277, 280, 288-\>exit, 290-\>exit, 310-311, 313-315, 317-320 |
+| src/haystack\_integrations/components/evaluators/ragas/utils.py     |       36 |        0 |       14 |        1 |     98% |   71-\>74 |
+| **TOTAL**                                                           |  **151** |   **13** |   **40** |    **8** | **88%** |           |
 
 
 ## Setup coverage badge
